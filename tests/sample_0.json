@@ -1,0 +1,32 @@
+{
+	"easy": [
+		{
+			"word": "word_easy_0",
+            "hint": "hint_easy_0"
+		},
+        {
+			"word": "word_easy_1",
+            "hint": "hint_easy_1"
+		}
+	],
+    "medium": [
+		{
+			"word": "word_medium_0",
+            "hint": "hint_medium_0"
+		},
+        {
+			"word": "word_medium_1",
+            "hint": "hint_medium_1"
+		}
+	],
+    "hard": [
+		{
+			"word": "word_hard_0",
+            "hint": "hint_hard_0"
+		},
+        {
+			"word": "word_hard_1",
+            "hint": "hint_hard_1"
+		}
+	]
+}
